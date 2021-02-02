@@ -5,4 +5,4 @@ hello.o:	hello.c
 	gcc -c hello.c hello.h
 
 clean:
-	rm -rf *.o *.c
+	rm -rf *.o
